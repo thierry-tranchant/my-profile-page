@@ -23,13 +23,17 @@ p, a {
 }
 
 p {
-  padding-bottom: 24px;
   color: rgb(55, 55, 55);
 }
 
 ul {
   padding-left: 0;
   margin-bottom: 0;
+}
+
+.presentation-paragraph {
+  padding-bottom: 24px;
+  color: rgb(55, 55, 55);
 }
 
 .img-circle {
